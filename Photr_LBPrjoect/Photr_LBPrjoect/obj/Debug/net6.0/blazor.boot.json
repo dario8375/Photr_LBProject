@@ -8,6 +8,7 @@
   "resources": {
     "assembly": {
       "Humanizer.dll": "sha256-FemIqz6NhJAK6QVJ6zmarEUtVe3wEJ4G+hqbIn3f1MQ=",
+      "MatBlazor.dll": "sha256-w+DEscEPLXa2QwjGoRMEy1XDOSGPM8O3p9QFXlTiea4=",
       "MessagePack.dll": "sha256-EfqQSZ6cxlYiULJA7Bkbbvi9NH8YCtzA9VP86yl6ceE=",
       "MessagePack.Annotations.dll": "sha256-rrWYaH10iftyPfGqv++PWmoVV12xvDYwRI\/Yw0zts2w=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-hGbT4jDhpi63093bjGt+4XVJ3Z9t1FVbmgNmYYmpiNY=",
@@ -91,6 +92,7 @@
       "System.Composition.Runtime.dll": "sha256-xBnj1R+e77H2\/A+3zPm1rFzEt1+nUTHUrwx0JSkU6xA=",
       "System.Composition.TypedParts.dll": "sha256-LGCb7Tu9K+gQRx4x42sSyzIaUPwlQejynB9ZyM+GnEE=",
       "System.Configuration.ConfigurationManager.dll": "sha256-Rmj4lST8tNcZUOCtfg1W5eXbLHDjla1J99tqgWTMUNY=",
+      "System.Data.SqlClient.dll": "sha256-kN69KkJJG+pYHtGSwPmJ4BxeAQo\/Mfw6obxtgPMLVnE=",
       "System.Drawing.Common.dll": "sha256-mNB+ax59NkGoYIo2Cz3Cc\/6KD3iSa24eX2eaegdNSR8=",
       "System.IdentityModel.Tokens.Jwt.dll": "sha256-sXPVBzH5GkrOxg71dclCkIUu1x2JTXiA7Pz\/bqxogtw=",
       "System.IO.Pipelines.dll": "sha256-fpnawcAWgJ8i0JPJ9DhQ8XFDKYsTi6md2eRFNh\/bONA=",
@@ -265,13 +267,19 @@
       "mscorlib.dll": "sha256-+5VU+MYaTQMTlRe9QKobEjWZWv6I9teAGdNndWSBqWE=",
       "netstandard.dll": "sha256-E5RFhGIaDH5QM6BEbFUuHU8U9wP6N6jbo5MCttzLOCM=",
       "System.Private.CoreLib.dll": "sha256-9NtEbYixyog7vUmeYXyyqzfBXUYl8wxoVQ26Ji7sNRg=",
-      "Photr_LBPrjoect.dll": "sha256-PeBndzq468a\/aQR1Zf42TACzD29ZiKkrfFbpN2F4xBI="
+      "BusinessLogic.dll": "sha256-YQUJr+Keeq2AA7nZgoTRei\/Q1sSDHxb7nn+e6b\/EyP0=",
+      "Common.dll": "sha256-sH38Y4krE2HqO3J7Za2J16+9c+OCXSxX9EXiMbFnHls=",
+      "DataLayer.dll": "sha256-H7aH5sGMFrWvaPGpJfVs8lE8HgxLdmvjAOurLw6\/oVQ=",
+      "Photr_LBPrjoect.dll": "sha256-MJP9B6hcmaMkjTy\/p4uUdSj23xUssmq5epLv99+PMjA="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "Photr_LBPrjoect.pdb": "sha256-\/s92gidLDN8iLgi7JHFhNFpx0dhAUkz8vecOHdHpVsM="
+      "BusinessLogic.pdb": "sha256-NfDqC4TFrtZG2c0OspijKBWJM\/laXLQeyu8tfiz0sbo=",
+      "Common.pdb": "sha256-rFkfrRVie2vU2Je\/OoGVsnn6KCpDjRX9XsmwOOc3EUE=",
+      "DataLayer.pdb": "sha256-TMCjdARdH4+rvjrmIu6S6tS6LgZkBzyaxaO71bl0rks=",
+      "Photr_LBPrjoect.pdb": "sha256-q8hSasnWjE59cBUwMvGkCmUolNX2qAsBWB2MFxSQtpg="
     },
     "runtime": {
       "dotnet.6.0.1.h2tvn97kdi.js": "sha256-awQsJ\/WxYhouHPuE+i3eJqjA4XClQlr2rD6nKvW80ww=",

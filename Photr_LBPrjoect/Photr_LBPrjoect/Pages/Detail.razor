@@ -1,0 +1,21 @@
+﻿@page "/"
+@using Photr_LBPrjoect.Controller
+@using BusinessLogic
+@using Common
+@using Photr_LBPrjoect.Model
+
+<h3>Detail</h3>
+
+@foreach (var item in allPics)
+{
+	
+}
+@code {
+	BusinessLogic.Helper helper = new BusinessLogic.Helper(false);
+	List<PictureDb> allPics = new List<PictureDb>();
+	public void GetDetail()
+	{
+		PhotrDb selectedService = new PhotrDb();
+		allPics = helper.GetSpecificData<PictureDb>(whereData: selectedService.Author, whereStatement: nameof(PictureDb.Author)).ToList();
+	}
+}

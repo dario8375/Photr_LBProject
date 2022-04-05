@@ -1,9 +1,26 @@
 ﻿@page "/"
+@using Photr_LBPrjoect.Controller
+@using BusinessLogic
+@using Common
+@using Photr_LBPrjoect.Model
+@using MatBlazor
 
 
 <PageTitle>Index Shop page</PageTitle>
 
 
+
+
 @code {
-  
+	BusinessLogic.Helper helper = new BusinessLogic.Helper(false);
+
+	List<PhotrDb> allDataBaseEntrys = new List<PhotrDb>();
+
+	public void GetShopItems()
+	{
+		allDataBaseEntrys = helper.GetData<PhotrDb>();
+
+	}
+
+
 }
