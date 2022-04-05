@@ -1,18 +1,32 @@
-﻿@page "/counter"
+﻿@page "/Warenkorb"
+@using Photr_LBPrjoect.Controller
+@using BusinessLogic
+@using Common
+@using Photr_LBPrjoect.Model
 
-<PageTitle>Counter</PageTitle>
+<PageTitle>Warenkorb</PageTitle>
 
-<h1>Counter</h1>
+<h1>Warenkorb</h1>
 
-<p role="status">Current count: @currentCount</p>
 
-<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+@if (entryInWahrenKorb.Count() > 0)
+{
+	@foreach (var entrey in entryInWahrenKorb)
+	{
+		// show in warenkorb
+	}
+}
+else
+{
+	<label>"sie müssen etwas in ihren wahrenkorb hinzufügen"</label>
+}
+
 
 @code {
-    private int currentCount = 0;
+	public List<PhotrDb> entryInWahrenKorb = new List<PhotrDb>();
 
-    private void IncrementCount()
-    {
-        currentCount++;
-    }
+	public void AddToWarenkorb(PhotrDb itemToadd)
+	{
+		entryInWahrenKorb.Add(itemToadd);
+	}
 }

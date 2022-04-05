@@ -1,28 +1,55 @@
-﻿@page "/fetchdata"
-@inject HttpClient Http
+﻿@page "/Login"
 @using Photr_LBPrjoect.Controller
 @using BusinessLogic
 @using Common
 @using Photr_LBPrjoect.Model
 
-
-<PageTitle>Weather forecast</PageTitle>
-
+<PageTitle>Login</PageTitle>
+<h1>Login</h1>
+<p>
+	<label>Username</label>
+	<input @bind="@username"></input>
+</p>
+<p>
+	<label>Password</label>
+	<input @bind="@password"></input>
+</p>
+<p>
+	<button @onclick="@LoginFunction">Login</button>
+</p>
+@if (!string.IsNullOrWhiteSpace(labelText))
+{
+	<label>@labelText</label>
+}
 
 
 @code {
 	BusinessLogic.Helper helper = new BusinessLogic.Helper(false);
-	string username;
-	string password = "password";
-	UserDb loggedInUser = null;
+	string labelText = string.Empty;
+	string username = string.Empty;
+	string password = string.Empty;
+	UserDb loggedInUser = new UserDb();
 	public void LoginFunction()
 	{
-		List<UserDb> user = helper.GetSpecificData<UserDb>(whereData: username, whereStatement: nameof(UserDb.Username), andData: password, andStatement: nameof(UserDb.Password)).ToList();
-		if (user.Count() != 0)
+		labelText = string.Empty;
+		try
 		{
-			loggedInUser = user.FirstOrDefault();
-
+			List<UserDb> user = helper.GetSpecificData<UserDb>(whereData: username, whereStatement: nameof(UserDb.Username), andData: password, andStatement: nameof(UserDb.Password)).ToList();
+			if (user.Count() != 0)
+			{
+				loggedInUser = user.FirstOrDefault();
+				labelText = "Wilkommen " + loggedInUser.Username + " !";
+			}
+			else
+			{
+				labelText = "User konnte nicht gefunden Werden.";
+			}
 		}
+		catch
+		{
+			labelText = "Fehler beim erstellen der Verbindung zu der Datenbank";
+		}
+
 	}
 
 }

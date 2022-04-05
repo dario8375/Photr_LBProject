@@ -270,7 +270,7 @@
       "BusinessLogic.dll": "sha256-aXPXhOVO+wya8U0qTEi8m\/moUrm75kLuEJZgD8b+lrU=",
       "Common.dll": "sha256-sH38Y4krE2HqO3J7Za2J16+9c+OCXSxX9EXiMbFnHls=",
       "DataLayer.dll": "sha256-H7aH5sGMFrWvaPGpJfVs8lE8HgxLdmvjAOurLw6\/oVQ=",
-      "Photr_LBPrjoect.dll": "sha256-12aqMXAEouatKfqT7q84\/wRwKRlHeyuCkWOe4BvyMpA="
+      "Photr_LBPrjoect.dll": "sha256-AHIgNQ2E0syAxyV03ZAU3iY9FPMC6Y+uj8pA+mxB4p8="
     },
     "extensions": null,
     "lazyAssembly": null,
@@ -279,7 +279,7 @@
       "BusinessLogic.pdb": "sha256-EtR6kyjZzXp+fimqUx2NT\/3J2EyDC5NYe2b9RFrWiRk=",
       "Common.pdb": "sha256-rFkfrRVie2vU2Je\/OoGVsnn6KCpDjRX9XsmwOOc3EUE=",
       "DataLayer.pdb": "sha256-TMCjdARdH4+rvjrmIu6S6tS6LgZkBzyaxaO71bl0rks=",
-      "Photr_LBPrjoect.pdb": "sha256-P11GDUeggKDZ8SEF4ZY+e64oWteDzm6JLuUREIzjS8M="
+      "Photr_LBPrjoect.pdb": "sha256-r1NwoBtMGr6CoxS9bkGE83BbpC2ztYJDYpYKWWvCHaA="
     },
     "runtime": {
       "dotnet.6.0.1.h2tvn97kdi.js": "sha256-awQsJ\/WxYhouHPuE+i3eJqjA4XClQlr2rD6nKvW80ww=",

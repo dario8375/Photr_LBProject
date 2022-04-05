@@ -1793,11 +1793,11 @@
       "url": "_framework\/DataLayer.pdb"
     },
     {
-      "hash": "sha256-BR0sfENk3TkKqtYlqjANH5Csj3DCQ8S5StjMrnMf+R8=",
+      "hash": "sha256-B004ZNzKHNh7vMgZVCNg1TDxUTk77TXBp6vsPiyQgDE=",
       "url": "_framework\/Photr_LBPrjoect.dll"
     },
     {
-      "hash": "sha256-IqzLCLdSojpscfOHsR2I3p+xdNAgzokMUmu4RpzfK4s=",
+      "hash": "sha256-ACRnzzM\/NmFgjGsiV6P7UbkoJd7F0XsH0du+Zm40ogA=",
       "url": "_framework\/Photr_LBPrjoect.pdb"
     },
     {
@@ -1805,7 +1805,7 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-NQKELlFUoMYsRWWBVXv6M9aV6pbQeoioxhcnJrgfcUI=",
+      "hash": "sha256-7n0ZhzADTh32rThMU4s+Jc9UymjMSmo1hYwc0WUVCiM=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -1817,5 +1817,5 @@
       "url": "_content\/MatBlazor\/dist\/matBlazor.js"
     }
   ],
-  "version": "vShbIywa"
+  "version": "JizyqT5R"
 };

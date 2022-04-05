@@ -9,21 +9,25 @@
 <PageTitle>Index Shop page</PageTitle>
 
 
-@foreach (var entry in allDataBaseEntrys)
+@foreach (var selectedItem in allDataBaseEntrys)
 {
-	// Create Entreys
+	<div class="@selectedItem" @onclick="((e) => itemClicked(selectedItem))">
+
+	</div>
 }
 
 @code {
-	BusinessLogic.Helper helper = new BusinessLogic.Helper(false);
+    BusinessLogic.Helper helper = new BusinessLogic.Helper(false);
 
-	List<PhotrDb> allDataBaseEntrys = new List<PhotrDb>();
+    List<PhotrDb> allDataBaseEntrys = new List<PhotrDb>();
 
-	public void GetShopItems()
-	{
-		allDataBaseEntrys = helper.GetData<PhotrDb>();
+    public void GetShopItems()
+    {
+        allDataBaseEntrys = helper.GetData<PhotrDb>();
 
-	}
-
+    }
+    public void itemClicked(object item)
+    {
+    }
 
 }

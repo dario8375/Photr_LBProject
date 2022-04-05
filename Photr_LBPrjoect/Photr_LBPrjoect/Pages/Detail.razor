@@ -3,6 +3,7 @@
 @using BusinessLogic
 @using Common
 @using Photr_LBPrjoect.Model
+@using Pages
 
 <h3>Detail</h3>
 
@@ -10,12 +11,21 @@
 {
 	
 }
+
+<button @onclick="@AddSelectedItemToWarenkorb"></button>
 @code {
+	Pages.Warenkorb warenkorb = new Pages.Warenkorb();
+
+	PhotrDb selectedService = new PhotrDb();
+
 	BusinessLogic.Helper helper = new BusinessLogic.Helper(false);
 	List<PictureDb> allPics = new List<PictureDb>();
 	public void GetDetail()
 	{
-		PhotrDb selectedService = new PhotrDb();
 		allPics = helper.GetSpecificData<PictureDb>(whereData: selectedService.Author, whereStatement: nameof(PictureDb.Author)).ToList();
+	}
+	public void AddSelectedItemToWarenkorb()
+	{
+		warenkorb.AddToWarenkorb(selectedService);
 	}
 }
