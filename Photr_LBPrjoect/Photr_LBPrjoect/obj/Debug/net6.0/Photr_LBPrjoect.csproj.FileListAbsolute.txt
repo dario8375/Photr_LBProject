@@ -599,7 +599,6 @@ C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect\
 C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect\bin\Debug\net6.0\icudt_CJK.dat
 C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect\bin\Debug\net6.0\icudt_EFIGS.dat
 C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect\bin\Debug\net6.0\icudt_no_CJK.dat
-C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect\obj\Debug\net6.0\Photr_LBPrjoect.csproj.AssemblyReference.cache
 C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect\obj\Debug\net6.0\Photr_LBPrjoect.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect\obj\Debug\net6.0\Photr_LBPrjoect.AssemblyInfoInputs.cache
 C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect\obj\Debug\net6.0\Photr_LBPrjoect.AssemblyInfo.cs
@@ -1713,3 +1712,8 @@ C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect\
 C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect\obj\Debug\net6.0\build-gz\LC5Bsbf+.gz
 C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect\obj\Debug\net6.0\build-gz\+8mMi0j2.gz
 C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect\obj\Debug\net6.0\build-gz\b984FSWQ.gz
+C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect\bin\Debug\net6.0\wwwroot\_framework\NLog.dll
+C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect\bin\Debug\net6.0\wwwroot\_framework\NLog.dll.gz
+C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect\bin\Debug\net6.0\NLog.dll
+C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect\obj\Debug\net6.0\Photr_LBPrjoect.csproj.AssemblyReference.cache
+C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect\obj\Debug\net6.0\build-gz\NIy2JB5l.gz

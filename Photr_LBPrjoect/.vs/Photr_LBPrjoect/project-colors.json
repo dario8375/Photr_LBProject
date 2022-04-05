@@ -15,7 +15,12 @@
       "ProjectGuid": "589853e6-8f48-4d0f-9740-301ed0469a92",
       "DisplayName": "DataLayer",
       "ColorIndex": 2
+    },
+    "8ea94a9c-f49f-4638-9fcc-d9a2cdd172ab": {
+      "ProjectGuid": "8ea94a9c-f49f-4638-9fcc-d9a2cdd172ab",
+      "DisplayName": "Common",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }
