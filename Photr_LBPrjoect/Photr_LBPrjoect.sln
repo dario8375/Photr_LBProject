@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Photr_LBPrjoect", "Photr_LBPrjoect\Photr_LBPrjoect.csproj", "{C9168399-5AD2-4D65-902E-969BD2201A60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Photr_LBPrjoect", "Photr_LBPrjoect\Photr_LBPrjoect.csproj", "{C9168399-5AD2-4D65-902E-969BD2201A60}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLogic", "..\..\..\..\Desktop\DataLayer\BusinessLogic\BusinessLogic.csproj", "{D58A4810-B5AF-4790-A8A0-91752C69C6BE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataLayer", "..\..\..\..\Desktop\DataLayer\DataLayer\DataLayer.csproj", "{589853E6-8F48-4D0F-9740-301ED0469A92}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{C9168399-5AD2-4D65-902E-969BD2201A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9168399-5AD2-4D65-902E-969BD2201A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9168399-5AD2-4D65-902E-969BD2201A60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D58A4810-B5AF-4790-A8A0-91752C69C6BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D58A4810-B5AF-4790-A8A0-91752C69C6BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D58A4810-B5AF-4790-A8A0-91752C69C6BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D58A4810-B5AF-4790-A8A0-91752C69C6BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{589853E6-8F48-4D0F-9740-301ED0469A92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{589853E6-8F48-4D0F-9740-301ED0469A92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{589853E6-8F48-4D0F-9740-301ED0469A92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{589853E6-8F48-4D0F-9740-301ED0469A92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

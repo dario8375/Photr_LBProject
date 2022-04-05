@@ -5,7 +5,17 @@
       "ProjectGuid": "c9168399-5ad2-4d65-902e-969bd2201a60",
       "DisplayName": "Photr_LBPrjoect",
       "ColorIndex": 0
+    },
+    "d58a4810-b5af-4790-a8a0-91752c69c6be": {
+      "ProjectGuid": "d58a4810-b5af-4790-a8a0-91752c69c6be",
+      "DisplayName": "BusinessLogic",
+      "ColorIndex": 1
+    },
+    "589853e6-8f48-4d0f-9740-301ed0469a92": {
+      "ProjectGuid": "589853e6-8f48-4d0f-9740-301ed0469a92",
+      "DisplayName": "DataLayer",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }
