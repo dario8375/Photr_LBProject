@@ -22,9 +22,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\..\Desktop\DataLayer\BusinessLogic\BusinessLogic.csproj" />
-    <ProjectReference Include="..\..\..\..\..\Desktop\DataLayer\Common\Common.csproj" />
-    <ProjectReference Include="..\..\..\..\..\Desktop\DataLayer\DataLayer\DataLayer.csproj" />
+    <ProjectReference Include="..\BusinessLogic\BusinessLogic.csproj" />
+    <ProjectReference Include="..\Common\Common.csproj" />
   </ItemGroup>
 
   <ItemGroup>

@@ -1744,9 +1744,9 @@ C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect\
 C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect\bin\Debug\net6.0\DataLayer.pdb
 C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect\obj\Debug\net6.0\build-gz\EoOXY8EO.gz
 C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect\obj\Debug\net6.0\build-gz\P90rR227.gz
-C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect\obj\Debug\net6.0\build-gz\jWvf4zkY.gz
-C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect\obj\Debug\net6.0\build-gz\AsdMc6iu.gz
-C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect\obj\Debug\net6.0\build-gz\kytSx+wZ.gz
-C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect\obj\Debug\net6.0\build-gz\UHJJKiDr.gz
-C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect\obj\Debug\net6.0\build-gz\4fzsAoW+.gz
-C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect\obj\Debug\net6.0\build-gz\141hTjtr.gz
+C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect\obj\Debug\net6.0\build-gz\JDCQwS0J.gz
+C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect\obj\Debug\net6.0\build-gz\Pi9zb6kB.gz
+C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect\obj\Debug\net6.0\build-gz\53DT8AyP.gz
+C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect\obj\Debug\net6.0\build-gz\ZnZh4FYs.gz
+C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect\obj\Debug\net6.0\build-gz\fYervEi6.gz
+C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect\obj\Debug\net6.0\build-gz\RHVCZ3UC.gz

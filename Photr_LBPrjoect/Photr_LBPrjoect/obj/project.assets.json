@@ -14250,25 +14250,24 @@
     },
     "BusinessLogic/1.0.0": {
       "type": "project",
-      "path": "../../../../../Desktop/DataLayer/BusinessLogic/BusinessLogic.csproj",
-      "msbuildProject": "../../../../../Desktop/DataLayer/BusinessLogic/BusinessLogic.csproj"
+      "path": "../BusinessLogic/BusinessLogic.csproj",
+      "msbuildProject": "../BusinessLogic/BusinessLogic.csproj"
     },
     "Common/1.0.0": {
       "type": "project",
-      "path": "../../../../../Desktop/DataLayer/Common/Common.csproj",
-      "msbuildProject": "../../../../../Desktop/DataLayer/Common/Common.csproj"
+      "path": "../Common/Common.csproj",
+      "msbuildProject": "../Common/Common.csproj"
     },
     "DataLayer/1.0.0": {
       "type": "project",
-      "path": "../../../../../Desktop/DataLayer/DataLayer/DataLayer.csproj",
-      "msbuildProject": "../../../../../Desktop/DataLayer/DataLayer/DataLayer.csproj"
+      "path": "../DataLayer/DataLayer.csproj",
+      "msbuildProject": "../DataLayer/DataLayer.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "BusinessLogic >= 1.0.0",
       "Common >= 1.0.0",
-      "DataLayer >= 1.0.0",
       "MatBlazor >= 2.8.0",
       "Microsoft.AspNetCore.Components.WebAssembly >= 6.0.1",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 6.0.1",
@@ -14316,14 +14315,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\dario\\Desktop\\DataLayer\\BusinessLogic\\BusinessLogic.csproj": {
-              "projectPath": "C:\\Users\\dario\\Desktop\\DataLayer\\BusinessLogic\\BusinessLogic.csproj"
+            "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\BusinessLogic\\BusinessLogic.csproj": {
+              "projectPath": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\BusinessLogic\\BusinessLogic.csproj"
             },
-            "C:\\Users\\dario\\Desktop\\DataLayer\\Common\\Common.csproj": {
-              "projectPath": "C:\\Users\\dario\\Desktop\\DataLayer\\Common\\Common.csproj"
-            },
-            "C:\\Users\\dario\\Desktop\\DataLayer\\DataLayer\\DataLayer.csproj": {
-              "projectPath": "C:\\Users\\dario\\Desktop\\DataLayer\\DataLayer\\DataLayer.csproj"
+            "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Common\\Common.csproj": {
+              "projectPath": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Common\\Common.csproj"
             }
           }
         }

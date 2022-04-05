@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "avmZzfHjVNvMoCmta28MQdbG5zFUzuc+R2fSjOhlJCM=",
+  "Hash": "oavQs0iEglDhz4qB6YbO42j9Q3bPdhJB8qbQmYIJR70=",
   "Source": "Photr_LBPrjoect",
   "BasePath": "/",
   "Mode": "Root",
@@ -99,7 +99,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dario\\Desktop\\DataLayer\\BusinessLogic\\bin\\Debug\\net6.0\\BusinessLogic.dll"
+      "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\BusinessLogic\\bin\\Debug\\net6.0\\BusinessLogic.dll"
     },
     {
       "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\BusinessLogic.pdb",
@@ -116,7 +116,7 @@
       "AssetTraitValue": "symbol",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dario\\Desktop\\DataLayer\\BusinessLogic\\bin\\Debug\\net6.0\\BusinessLogic.pdb"
+      "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\BusinessLogic\\bin\\Debug\\net6.0\\BusinessLogic.pdb"
     },
     {
       "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Common.dll",
@@ -133,7 +133,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dario\\Desktop\\DataLayer\\Common\\bin\\Debug\\net6.0\\Common.dll"
+      "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Common\\bin\\Debug\\net6.0\\Common.dll"
     },
     {
       "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Common.pdb",
@@ -150,7 +150,7 @@
       "AssetTraitValue": "symbol",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dario\\Desktop\\DataLayer\\Common\\bin\\Debug\\net6.0\\Common.pdb"
+      "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Common\\bin\\Debug\\net6.0\\Common.pdb"
     },
     {
       "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\cs\\Microsoft.CodeAnalysis.CSharp.Features.resources.dll",
@@ -371,7 +371,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dario\\Desktop\\DataLayer\\DataLayer\\bin\\Debug\\net6.0\\DataLayer.dll"
+      "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\DataLayer\\bin\\Debug\\net6.0\\DataLayer.dll"
     },
     {
       "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\DataLayer.pdb",
@@ -388,7 +388,7 @@
       "AssetTraitValue": "symbol",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dario\\Desktop\\DataLayer\\DataLayer\\bin\\Debug\\net6.0\\DataLayer.pdb"
+      "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\DataLayer\\bin\\Debug\\net6.0\\DataLayer.pdb"
     },
     {
       "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\de\\Microsoft.CodeAnalysis.CSharp.Features.resources.dll",
@@ -7735,23 +7735,6 @@
       "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll"
     },
     {
-      "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\141hTjtr.gz",
-      "SourceId": "Photr_LBPrjoect",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/DataLayer.pdb.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\DataLayer.pdb",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\DataLayer.pdb"
-    },
-    {
       "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\14vwPMHv.gz",
       "SourceId": "Photr_LBPrjoect",
       "SourceType": "Computed",
@@ -8194,23 +8177,6 @@
       "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll"
     },
     {
-      "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\4fzsAoW+.gz",
-      "SourceId": "Photr_LBPrjoect",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Common.pdb.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Common.pdb",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Common.pdb"
-    },
-    {
       "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\4GFFH1vC.gz",
       "SourceId": "Photr_LBPrjoect",
       "SourceType": "Computed",
@@ -8328,6 +8294,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\de\\Microsoft.CodeAnalysis.VisualBasic.resources.dll"
+    },
+    {
+      "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\53DT8AyP.gz",
+      "SourceId": "Photr_LBPrjoect",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/DataLayer.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\DataLayer.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\DataLayer.dll"
     },
     {
       "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\57p5N1Js.gz",
@@ -9076,23 +9059,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\cs\\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll"
-    },
-    {
-      "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\AsdMc6iu.gz",
-      "SourceId": "Photr_LBPrjoect",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Common.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Common.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Common.dll"
     },
     {
       "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\Av15hkj+.gz",
@@ -10166,6 +10132,23 @@
       "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.Requests.dll"
     },
     {
+      "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\fYervEi6.gz",
+      "SourceId": "Photr_LBPrjoect",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Common.pdb.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Common.pdb",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Common.pdb"
+    },
+    {
       "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\G07Rf3yW.gz",
       "SourceId": "Photr_LBPrjoect",
       "SourceType": "Computed",
@@ -10914,6 +10897,23 @@
       "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Reflection.Emit.ILGeneration.dll"
     },
     {
+      "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\JDCQwS0J.gz",
+      "SourceId": "Photr_LBPrjoect",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/BusinessLogic.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\BusinessLogic.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\BusinessLogic.dll"
+    },
+    {
       "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\JezskpjF.gz",
       "SourceId": "Photr_LBPrjoect",
       "SourceType": "Computed",
@@ -11014,23 +11014,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Configuration.ConfigurationManager.dll"
-    },
-    {
-      "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\jWvf4zkY.gz",
-      "SourceId": "Photr_LBPrjoect",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/BusinessLogic.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\BusinessLogic.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\BusinessLogic.dll"
     },
     {
       "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\jyAIX377.gz",
@@ -11269,23 +11252,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Data.SqlClient.dll"
-    },
-    {
-      "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\kytSx+wZ.gz",
-      "SourceId": "Photr_LBPrjoect",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/DataLayer.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\DataLayer.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\DataLayer.dll"
     },
     {
       "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\kZTOBwu+.gz",
@@ -12206,6 +12172,23 @@
       "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Threading.ThreadPool.dll"
     },
     {
+      "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\Pi9zb6kB.gz",
+      "SourceId": "Photr_LBPrjoect",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Common.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Common.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Common.dll"
+    },
+    {
       "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\PMa4YeyD.gz",
       "SourceId": "Photr_LBPrjoect",
       "SourceType": "Computed",
@@ -12680,6 +12663,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.Numerics.dll"
+    },
+    {
+      "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\RHVCZ3UC.gz",
+      "SourceId": "Photr_LBPrjoect",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/DataLayer.pdb.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\DataLayer.pdb",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\DataLayer.pdb"
     },
     {
       "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\RIWAS3Ay.gz",
@@ -13428,23 +13428,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\zh-Hans\\Microsoft.CodeAnalysis.Workspaces.resources.dll"
-    },
-    {
-      "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\UHJJKiDr.gz",
-      "SourceId": "Photr_LBPrjoect",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/BusinessLogic.pdb.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\BusinessLogic.pdb",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\BusinessLogic.pdb"
     },
     {
       "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\ujH0DkCP.gz",
@@ -14703,6 +14686,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\MessagePack.Annotations.dll"
+    },
+    {
+      "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\ZnZh4FYs.gz",
+      "SourceId": "Photr_LBPrjoect",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/BusinessLogic.pdb.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\BusinessLogic.pdb",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\BusinessLogic.pdb"
     },
     {
       "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\ZP0day8W.gz",
