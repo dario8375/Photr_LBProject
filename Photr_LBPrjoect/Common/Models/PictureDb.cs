@@ -6,7 +6,7 @@ namespace Photr_LBPrjoect.Model
     {
         public int Id { get; set; }
         public string Author { get; set; }
-         public string Picture { get; set; }
+         public Bitmap Picture { get; set; }
 
     }
 }

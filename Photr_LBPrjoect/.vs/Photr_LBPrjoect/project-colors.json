@@ -20,7 +20,22 @@
       "ProjectGuid": "8ea94a9c-f49f-4638-9fcc-d9a2cdd172ab",
       "DisplayName": "Common",
       "ColorIndex": 3
+    },
+    "6b5c0abc-6403-4af7-8d98-1abd5229087c": {
+      "ProjectGuid": "6b5c0abc-6403-4af7-8d98-1abd5229087c",
+      "DisplayName": "DataLayer",
+      "ColorIndex": 4
+    },
+    "3e69f701-b9be-4f28-8f82-bfb6cb25d894": {
+      "ProjectGuid": "3e69f701-b9be-4f28-8f82-bfb6cb25d894",
+      "DisplayName": "Common",
+      "ColorIndex": 5
+    },
+    "d33d9e8b-d65e-4243-b76a-774ebc8d4e2c": {
+      "ProjectGuid": "d33d9e8b-d65e-4243-b76a-774ebc8d4e2c",
+      "DisplayName": "BusinessLogic",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 7
 }

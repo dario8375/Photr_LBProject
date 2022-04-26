@@ -13,9 +13,10 @@ namespace Common {
         public string GetConnectionString(bool unittestConnectionString) {
             string connectionString;
             if (unittestConnectionString) {
-                connectionString = @"";
+
+                connectionString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=Photrn;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
             } else {
-                connectionString = @"";
+                connectionString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=Photrn;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
             }
             return connectionString;
         }

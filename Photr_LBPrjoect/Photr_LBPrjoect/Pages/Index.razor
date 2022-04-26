@@ -3,31 +3,48 @@
 @using BusinessLogic
 @using Common
 @using Photr_LBPrjoect.Model
+@using Common.ViewModels
 @using MatBlazor
-
+@page "/on-init"
 
 <PageTitle>Index Shop page</PageTitle>
 
 
-@foreach (var selectedItem in allDataBaseEntrys)
+@*@foreach (var selectedItem in allOffersForMainPage)
 {
-	<div class="@selectedItem" @onclick="((e) => itemClicked(selectedItem))">
 
-	</div>
-}
+}*@
 
 @code {
-    BusinessLogic.Helper helper = new BusinessLogic.Helper(false);
+	BusinessLogic.Helper helper = new BusinessLogic.Helper(false);
 
-    List<PhotrDb> allDataBaseEntrys = new List<PhotrDb>();
-
-    public void GetShopItems()
+	List<PhotrDb> allDataBaseEntrys = new List<PhotrDb>();
+	List<PictureDb> allDataBasePic = new List<PictureDb>();
+	List<MainPageViewModel> allOffersForMainPage = new List<MainPageViewModel>();
+	    protected override void OnInitialized()
     {
         allDataBaseEntrys = helper.GetData<PhotrDb>();
+    }
+	public void GetShopItems()
+	{
+		allDataBaseEntrys = helper.GetData<PhotrDb>();
 
-    }
-    public void itemClicked(object item)
-    {
-    }
+		foreach (var item in allDataBaseEntrys)
+		{
+			allDataBasePic = helper.GetSpecificData<PictureDb>(whereData: item.Author, whereStatement: nameof(PictureDb.Author));
+			MainPageViewModel oneOffer = new MainPageViewModel()
+				{
+					Author = item.Author,
+					Price = item.Price,
+					Titel = item.Titel,
+					TitelPic = allDataBasePic.FirstOrDefault().Picture,
+				};
+			allOffersForMainPage.Add(oneOffer);
+		}
+	}
+	public void itemClicked(object item)
+	{
+
+	}
 
 }

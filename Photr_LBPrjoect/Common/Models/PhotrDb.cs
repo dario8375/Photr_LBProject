@@ -9,6 +9,5 @@ namespace Photr_LBPrjoect.Model
         public string Description { get; set; }
         public double Price { get; set; }
         public string Author { get; set; }
-        public Bitmap MainPic { get; set; }
     }
 }

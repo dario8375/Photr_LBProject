@@ -1,0 +1,72 @@
+﻿@page "/Add Offer"
+@using Photr_LBPrjoect.Controller
+@using BusinessLogic
+@using Common
+@using Photr_LBPrjoect.Model
+@using Common.ViewModels
+@using MatBlazor
+@using System.Drawing
+
+
+<h3>Add_Offer</h3>
+<br />
+<label>Namen</label>
+<input value=@inputeTitle />
+<br />
+<label>Preis</label>
+<input type="number" value=@inputePrice />
+<br />
+<label>Bildeingabe</label>
+<input value=@image type="file" asp-for="image.file" />
+<br />
+
+<button @onclick="AddOffer">Add Offer</button>
+
+<label>@errorMsg</label>
+@code {
+	BusinessLogic.Helper helper = new BusinessLogic.Helper(false);
+	string inputePrice = string.Empty;
+	string inputeTitle = string.Empty;
+	string errorMsg = string.Empty;
+	public Bitmap image;
+	private async Task AddOffer()
+	{
+		errorMsg = string.Empty;
+		double convertedDouble = 0;
+		bool succes = false;
+		try
+		{
+			convertedDouble = Convert.ToDouble(inputePrice);
+		}
+		catch
+		{
+			errorMsg = "Bitte geben Sie eine Nummer ein";
+		}
+		try
+		{
+			MainPageViewModel oneOffer = new MainPageViewModel()
+				{
+					Author = "TestUser",
+					Price = convertedDouble,
+					Titel = inputeTitle,
+					TitelPic = image,
+				};
+			succes = helper.AnnexData<MainPageViewModel>(oneOffer);
+			if (succes)
+			{
+				inputePrice = string.Empty;
+				inputeTitle = string.Empty;
+				image = null;
+			}
+			else
+			{
+
+			}
+		}
+		catch
+		{
+			errorMsg = "Bitte geben Sie ale Daten ein";
+		}
+
+	}
+}

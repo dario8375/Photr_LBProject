@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oavQs0iEglDhz4qB6YbO42j9Q3bPdhJB8qbQmYIJR70=",
+  "Hash": "xjOvsLZYMf6/2ixB/icvX89+SA8EfbmSsDo6Lnf0pYg=",
   "Source": "Photr_LBPrjoect",
   "BasePath": "/",
   "Mode": "Root",
@@ -2292,7 +2292,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dario\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.1\\lib\\net6.0\\Microsoft.EntityFrameworkCore.Abstractions.dll"
+      "OriginalItemSpec": "C:\\Users\\dario\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.4\\lib\\net6.0\\Microsoft.EntityFrameworkCore.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.EntityFrameworkCore.Design.dll",
@@ -2326,7 +2326,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dario\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.1\\lib\\net6.0\\Microsoft.EntityFrameworkCore.dll"
+      "OriginalItemSpec": "C:\\Users\\dario\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.4\\lib\\net6.0\\Microsoft.EntityFrameworkCore.dll"
     },
     {
       "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.EntityFrameworkCore.Relational.dll",
@@ -2343,7 +2343,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dario\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.1\\lib\\net6.0\\Microsoft.EntityFrameworkCore.Relational.dll"
+      "OriginalItemSpec": "C:\\Users\\dario\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.4\\lib\\net6.0\\Microsoft.EntityFrameworkCore.Relational.dll"
     },
     {
       "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.EntityFrameworkCore.SqlServer.dll",
@@ -2360,7 +2360,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dario\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\6.0.1\\lib\\net6.0\\Microsoft.EntityFrameworkCore.SqlServer.dll"
+      "OriginalItemSpec": "C:\\Users\\dario\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\6.0.4\\lib\\net6.0\\Microsoft.EntityFrameworkCore.SqlServer.dll"
     },
     {
       "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Caching.Abstractions.dll",
@@ -2394,7 +2394,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dario\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.0\\lib\\netstandard2.0\\Microsoft.Extensions.Caching.Memory.dll"
+      "OriginalItemSpec": "C:\\Users\\dario\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.1\\lib\\netstandard2.0\\Microsoft.Extensions.Caching.Memory.dll"
     },
     {
       "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Abstractions.dll",
@@ -7650,23 +7650,6 @@
       "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
-      "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\05c11v9X.gz",
-      "SourceId": "Photr_LBPrjoect",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.EntityFrameworkCore.Relational.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.EntityFrameworkCore.Relational.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.EntityFrameworkCore.Relational.dll"
-    },
-    {
       "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\0CPOvajb.gz",
       "SourceId": "Photr_LBPrjoect",
       "SourceType": "Computed",
@@ -7733,6 +7716,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll"
+    },
+    {
+      "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\11dXFmhY.gz",
+      "SourceId": "Photr_LBPrjoect",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.EntityFrameworkCore.Relational.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.EntityFrameworkCore.Relational.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.EntityFrameworkCore.Relational.dll"
     },
     {
       "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\14vwPMHv.gz",
@@ -8685,6 +8685,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\zh-Hans\\Microsoft.CodeAnalysis.Features.resources.dll"
+    },
+    {
+      "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\7VTDxFh4.gz",
+      "SourceId": "Photr_LBPrjoect",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Caching.Memory.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Caching.Memory.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Caching.Memory.dll"
     },
     {
       "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\82pApFFT.gz",
@@ -10149,23 +10166,6 @@
       "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Common.pdb"
     },
     {
-      "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\G07Rf3yW.gz",
-      "SourceId": "Photr_LBPrjoect",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.EntityFrameworkCore.Abstractions.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.EntityFrameworkCore.Abstractions.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.EntityFrameworkCore.Abstractions.dll"
-    },
-    {
       "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\G4u7oEhE.gz",
       "SourceId": "Photr_LBPrjoect",
       "SourceType": "Computed",
@@ -10793,6 +10793,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.Serialization.dll"
+    },
+    {
+      "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\iqenTQ9A.gz",
+      "SourceId": "Photr_LBPrjoect",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.EntityFrameworkCore.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.EntityFrameworkCore.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.EntityFrameworkCore.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\Islxhzm7.gz",
@@ -12716,23 +12733,6 @@
       "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Threading.Timer.dll"
     },
     {
-      "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\rl070wV5.gz",
-      "SourceId": "Photr_LBPrjoect",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.EntityFrameworkCore.SqlServer.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.EntityFrameworkCore.SqlServer.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.EntityFrameworkCore.SqlServer.dll"
-    },
-    {
       "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\Rmqs0lUD.gz",
       "SourceId": "Photr_LBPrjoect",
       "SourceType": "Computed",
@@ -12850,23 +12850,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.MemoryMappedFiles.dll"
-    },
-    {
-      "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\S1VxRoQN.gz",
-      "SourceId": "Photr_LBPrjoect",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Caching.Memory.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Caching.Memory.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Caching.Memory.dll"
     },
     {
       "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\s70DYgmN.gz",
@@ -13991,23 +13974,6 @@
       "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\de\\Microsoft.CodeAnalysis.resources.dll"
     },
     {
-      "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\WJh1BhmQ.gz",
-      "SourceId": "Photr_LBPrjoect",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.EntityFrameworkCore.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.EntityFrameworkCore.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.EntityFrameworkCore.dll"
-    },
-    {
       "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\wOsNB87F.gz",
       "SourceId": "Photr_LBPrjoect",
       "SourceType": "Computed",
@@ -14040,6 +14006,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ComponentModel.dll"
+    },
+    {
+      "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\wT5CXC1O.gz",
+      "SourceId": "Photr_LBPrjoect",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.EntityFrameworkCore.SqlServer.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.EntityFrameworkCore.SqlServer.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.EntityFrameworkCore.SqlServer.dll"
     },
     {
       "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\wuaXIE8Z.gz",
@@ -14465,6 +14448,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Compression.Brotli.dll"
+    },
+    {
+      "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\YrIeYbce.gz",
+      "SourceId": "Photr_LBPrjoect",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.EntityFrameworkCore.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.EntityFrameworkCore.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.EntityFrameworkCore.dll"
     },
     {
       "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\obj\\Debug\\net6.0\\build-gz\\Ys15P8tf.gz",

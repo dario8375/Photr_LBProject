@@ -50,3 +50,16 @@ C:\Users\dario\Desktop\DataLayer\Common\bin\Debug\net6.0\Common.deps.json
 C:\Users\dario\Desktop\DataLayer\Common\bin\Debug\net6.0\Common.dll
 C:\Users\dario\Desktop\DataLayer\Common\bin\Debug\net6.0\ref\Common.dll
 C:\Users\dario\Desktop\DataLayer\Common\bin\Debug\net6.0\Common.pdb
+C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Common\bin\Debug\net6.0\NLog.config
+C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Common\bin\Debug\net6.0\Common.deps.json
+C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Common\bin\Debug\net6.0\Common.dll
+C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Common\bin\Debug\net6.0\ref\Common.dll
+C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Common\bin\Debug\net6.0\Common.pdb
+C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Common\obj\Debug\net6.0\Common.dll
+C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Common\obj\Debug\net6.0\ref\Common.dll
+C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Common\obj\Debug\net6.0\Common.pdb

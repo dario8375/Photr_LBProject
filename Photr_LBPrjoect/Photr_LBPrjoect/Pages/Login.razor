@@ -21,6 +21,10 @@
 {
 	<label>@labelText</label>
 }
+@if (loggedInUser != null)
+{
+	<button @onclick="@LogOut">Logout</button>
+}
 
 
 @code {
@@ -31,6 +35,7 @@
 	UserDb loggedInUser = new UserDb();
 	public void LoginFunction()
 	{
+		loggedInUser = null;
 		labelText = string.Empty;
 		try
 		{
@@ -49,7 +54,10 @@
 		{
 			labelText = "Fehler beim erstellen der Verbindung zu der Datenbank";
 		}
-
+	}
+	public void LogOut()
+	{
+		loggedInUser = null;
 	}
 
 }
