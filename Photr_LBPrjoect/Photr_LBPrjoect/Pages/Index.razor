@@ -5,6 +5,7 @@
 @using Photr_LBPrjoect.Model
 @using Common.ViewModels
 @using MatBlazor
+@using System.Drawing
 @page "/on-init"
 
 <PageTitle>Index Shop page</PageTitle>
@@ -18,26 +19,33 @@
 @code {
 	BusinessLogic.Helper helper = new BusinessLogic.Helper(false);
 
-	List<PhotrDb> allDataBaseEntrys = new List<PhotrDb>();
-	List<PictureDb> allDataBasePic = new List<PictureDb>();
+	List<Photr> allDataBaseEntrys = new List<Photr>();
+	List<Picture> allDataBasePic = new List<Picture>();
 	List<MainPageViewModel> allOffersForMainPage = new List<MainPageViewModel>();
-	    protected override void OnInitialized()
-    {
-        allDataBaseEntrys = helper.GetData<PhotrDb>();
-    }
+	protected override void OnInitialized()
+	{
+		allDataBaseEntrys = helper.GetData<Photr>();
+	}
 	public void GetShopItems()
 	{
-		allDataBaseEntrys = helper.GetData<PhotrDb>();
+		allDataBaseEntrys = helper.GetData<Photr>();
 
 		foreach (var item in allDataBaseEntrys)
 		{
-			allDataBasePic = helper.GetSpecificData<PictureDb>(whereData: item.Author, whereStatement: nameof(PictureDb.Author));
+			//allDataBasePic = helper.GetSpecificData<Picture>(whereData: item.Author, whereStatement: nameof(Picture.Author));
+			allDataBasePic = new List<Picture>(){new Picture()
+			{
+				Id = 1,
+				Author = "testSeller",
+				Photo = new Bitmap(@"C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect\wwwroot\testimage\testimage.png")
+			}
+			};
 			MainPageViewModel oneOffer = new MainPageViewModel()
 				{
 					Author = item.Author,
 					Price = item.Price,
 					Titel = item.Titel,
-					TitelPic = allDataBasePic.FirstOrDefault().Picture,
+					TitelPic = allDataBasePic.FirstOrDefault().Photo
 				};
 			allOffersForMainPage.Add(oneOffer);
 		}

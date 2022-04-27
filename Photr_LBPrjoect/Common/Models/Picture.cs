@@ -2,11 +2,11 @@
 
 namespace Photr_LBPrjoect.Model
 {
-    public class PictureDb
+    public class Picture
     {
         public int Id { get; set; }
         public string Author { get; set; }
-         public Bitmap Picture { get; set; }
+         public Bitmap Photo { get; set; }
 
     }
 }

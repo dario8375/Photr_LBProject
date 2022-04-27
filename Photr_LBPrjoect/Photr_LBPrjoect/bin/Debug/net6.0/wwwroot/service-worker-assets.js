@@ -73,6 +73,10 @@
       "url": "sample-data\/weather.json"
     },
     {
+      "hash": "sha256-nzKEJGaEONrQ\/r5tcHg\/dv1RfjGRb\/LIZOgKQQ284nM=",
+      "url": "testimage\/testimage.png"
+    },
+    {
       "hash": "sha256-UcnlfnsKZjx2nQy7j5N0ktrBtu9JIsYr2VftrGsSv\/4=",
       "url": "Photr_LBPrjoect.styles.css"
     },
@@ -1769,35 +1773,35 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-TcwKs+\/1wHqclBRtjmN3gccmd0HoJK+435jqXxBnRMU=",
+      "hash": "sha256-6HknlzHHfTz+DbKO3fx2\/Y81AjD7bRoDUljfBY8gUsA=",
       "url": "_framework\/BusinessLogic.dll"
     },
     {
-      "hash": "sha256-yfUHHNrZUNqDOWi0EE7NgwC59QGCwVrgHAwAUql3tuw=",
+      "hash": "sha256-a4fCSTxOr9uEP0tCKR3t8QUqXYsmn6PT0GWyHNh9X08=",
       "url": "_framework\/Common.dll"
     },
     {
-      "hash": "sha256-7qQQ8\/aO\/PC0u+uIRSvpTUadkwrcGR0Zx+4yplF8llw=",
+      "hash": "sha256-2tLPaYCRlIkVIPzruUOB8VagMNgVvSB+84CmyAQXu70=",
       "url": "_framework\/DataLayer.dll"
     },
     {
-      "hash": "sha256-4T7csotxT0pAluwcR4AaUBxSUdS7sMttRIAIjO2F1Hs=",
+      "hash": "sha256-Ct8jduPQXfjQzVmH7yHKmu31V5ypaRNDXQTrvGGd+Zw=",
       "url": "_framework\/BusinessLogic.pdb"
     },
     {
-      "hash": "sha256-mH8g\/kv3HNoQEBZLL+l3ChtXP\/tIy2dwP60x2UHqu78=",
+      "hash": "sha256-GHGNNlgx9TWcSMcRCUVk6nwXEMQ9ADODG10t7ogSD1c=",
       "url": "_framework\/Common.pdb"
     },
     {
-      "hash": "sha256-VGSxE4dUWSjy5ig+\/ZrgYXgnbX+VaOqMLy5IfaI7MJc=",
+      "hash": "sha256-rxbbwS+No7crkSD68wdCcX1TNf\/zYHS6nQwZR62gKYI=",
       "url": "_framework\/DataLayer.pdb"
     },
     {
-      "hash": "sha256-ujva8x5CoqGRq8PXhaWJIA0snJ2yeqIglGxDCiXM5WE=",
+      "hash": "sha256-kwh7eu4ow+F3cwQVLht07r8w856SrqCu4ACucrTWeS0=",
       "url": "_framework\/Photr_LBPrjoect.dll"
     },
     {
-      "hash": "sha256-rd7\/Pg+MGukgTmrY4uIHZrM405jlQ1BoZbkZ9mhEhWg=",
+      "hash": "sha256-M9AHjB8GGPMskijOu5xkiqEAXObJQbGbnfYU3D\/WOHI=",
       "url": "_framework\/Photr_LBPrjoect.pdb"
     },
     {
@@ -1805,7 +1809,7 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-xpxh+n7rINzBSeC6GKawm67h+xkfeLRiEnI3Dgpun0E=",
+      "hash": "sha256-cuC8uxFD2MaDodQDJpMHtjR0L4CAF952TZAcBpFTnlU=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -1817,5 +1821,5 @@
       "url": "_content\/MatBlazor\/dist\/matBlazor.js"
     }
   ],
-  "version": "+96Jw1HQ"
+  "version": "pdJd1OWk"
 };

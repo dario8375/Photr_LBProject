@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xjOvsLZYMf6/2ixB/icvX89+SA8EfbmSsDo6Lnf0pYg=",
+  "Hash": "CjxR+6d+801iVAUOSdV1sp+yZVZ9AUZ4xN3GAyKWQ/k=",
   "Source": "Photr_LBPrjoect",
   "BasePath": "/",
   "Mode": "Root",
@@ -15162,6 +15162,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\sample-data\\weather.json"
+    },
+    {
+      "Identity": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\wwwroot\\testimage\\testimage.png",
+      "SourceId": "Photr_LBPrjoect",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Photr_LBPrjoect\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "testimage/testimage.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\testimage\\testimage.png"
     }
   ]
 }

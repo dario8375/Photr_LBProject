@@ -16,13 +16,22 @@
 @code {
 	Pages.Warenkorb warenkorb = new Pages.Warenkorb();
 
-	PhotrDb selectedService = new PhotrDb();
+	Photr selectedService = new Photr();
 
 	BusinessLogic.Helper helper = new BusinessLogic.Helper(false);
-	List<PictureDb> allPics = new List<PictureDb>();
+	List<Picture> allPics = new List<Picture>();
 	public void GetDetail()
 	{
-		allPics = helper.GetSpecificData<PictureDb>(whereData: selectedService.Author, whereStatement: nameof(PictureDb.Author)).ToList();
+		//allPics = helper.GetSpecificData<Picture>(whereData: selectedService.Author, whereStatement: nameof(Picture.Author)).ToList();
+		allPics = new List<Picture>()
+		{
+			new Picture()
+			{
+				Id = 2,
+				Author = "testSeller",
+				Photo = new System.Drawing.Bitmap(@"C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect\wwwroot\testimage\testimage.png")
+			}
+		};
 	}
 	public void AddSelectedItemToWarenkorb()
 	{
