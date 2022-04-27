@@ -1,25 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\DataLayer\\DataLayer.csproj": {}
+    "C:\\Users\\Luca Zardet\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\DataLayer\\DataLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Common\\Common.csproj": {
+    "C:\\Users\\Luca Zardet\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Common\\Common.csproj",
+        "projectUniqueName": "C:\\Users\\Luca Zardet\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Common\\Common.csproj",
-        "packagesPath": "C:\\Users\\dario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Common\\obj\\",
+        "projectPath": "C:\\Users\\Luca Zardet\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\Luca Zardet\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luca Zardet\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\dario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Luca Zardet\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -87,22 +87,22 @@
         }
       }
     },
-    "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\DataLayer\\DataLayer.csproj": {
+    "C:\\Users\\Luca Zardet\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\DataLayer\\DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\DataLayer\\DataLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Luca Zardet\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\DataLayer\\DataLayer.csproj",
         "projectName": "DataLayer",
-        "projectPath": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\DataLayer\\DataLayer.csproj",
-        "packagesPath": "C:\\Users\\dario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\DataLayer\\obj\\",
+        "projectPath": "C:\\Users\\Luca Zardet\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\DataLayer\\DataLayer.csproj",
+        "packagesPath": "C:\\Users\\Luca Zardet\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luca Zardet\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\dario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Luca Zardet\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -118,8 +118,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\dario\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Common\\Common.csproj"
+              "C:\\Users\\Luca Zardet\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\Luca Zardet\\Documents\\GitHub\\Photr_LBProject\\Photr_LBPrjoect\\Common\\Common.csproj"
               }
             }
           }

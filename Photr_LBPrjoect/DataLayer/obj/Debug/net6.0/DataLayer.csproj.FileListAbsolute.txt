@@ -78,3 +78,19 @@ C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\DataLayer\obj\De
 C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\DataLayer\obj\Debug\net6.0\DataLayer.dll
 C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\DataLayer\obj\Debug\net6.0\ref\DataLayer.dll
 C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\DataLayer\obj\Debug\net6.0\DataLayer.pdb
+C:\Users\Luca Zardet\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\DataLayer\bin\Debug\net6.0\NLog.config
+C:\Users\Luca Zardet\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\DataLayer\bin\Debug\net6.0\DataLayer.deps.json
+C:\Users\Luca Zardet\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\DataLayer\bin\Debug\net6.0\DataLayer.dll
+C:\Users\Luca Zardet\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\DataLayer\bin\Debug\net6.0\ref\DataLayer.dll
+C:\Users\Luca Zardet\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\DataLayer\bin\Debug\net6.0\DataLayer.pdb
+C:\Users\Luca Zardet\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\DataLayer\bin\Debug\net6.0\Common.dll
+C:\Users\Luca Zardet\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\DataLayer\bin\Debug\net6.0\Common.pdb
+C:\Users\Luca Zardet\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\DataLayer\obj\Debug\net6.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\Luca Zardet\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\DataLayer\obj\Debug\net6.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca Zardet\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\Luca Zardet\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfo.cs
+C:\Users\Luca Zardet\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Luca Zardet\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CopyComplete
+C:\Users\Luca Zardet\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\DataLayer\obj\Debug\net6.0\DataLayer.dll
+C:\Users\Luca Zardet\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\DataLayer\obj\Debug\net6.0\ref\DataLayer.dll
+C:\Users\Luca Zardet\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\DataLayer\obj\Debug\net6.0\DataLayer.pdb
