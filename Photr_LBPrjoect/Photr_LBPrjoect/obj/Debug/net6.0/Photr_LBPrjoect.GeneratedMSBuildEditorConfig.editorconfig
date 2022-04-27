@@ -11,45 +11,45 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = Photr_LBPrjoect
 build_property.RootNamespace = Photr_LBPrjoect
-build_property.ProjectDir = C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect\
+build_property.ProjectDir = C:\Users\Luca Zardet\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect
+build_property.MSBuildProjectDirectory = C:\Users\Luca Zardet\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/dario/Documents/GitHub/Photr_LBProject/Photr_LBPrjoect/Photr_LBPrjoect/App.razor]
+[C:/Users/Luca Zardet/Documents/GitHub/Photr_LBProject/Photr_LBPrjoect/Photr_LBPrjoect/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dario/Documents/GitHub/Photr_LBProject/Photr_LBPrjoect/Photr_LBPrjoect/Pages/Add Offer.razor]
+[C:/Users/Luca Zardet/Documents/GitHub/Photr_LBProject/Photr_LBPrjoect/Photr_LBPrjoect/Pages/Add Offer.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkIE9mZmVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dario/Documents/GitHub/Photr_LBProject/Photr_LBPrjoect/Photr_LBPrjoect/Pages/Detail.razor]
+[C:/Users/Luca Zardet/Documents/GitHub/Photr_LBProject/Photr_LBPrjoect/Photr_LBPrjoect/Pages/Detail.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV0YWlsLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dario/Documents/GitHub/Photr_LBProject/Photr_LBPrjoect/Photr_LBPrjoect/Pages/Index.razor]
+[C:/Users/Luca Zardet/Documents/GitHub/Photr_LBProject/Photr_LBPrjoect/Photr_LBPrjoect/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dario/Documents/GitHub/Photr_LBProject/Photr_LBPrjoect/Photr_LBPrjoect/Pages/Login.razor]
+[C:/Users/Luca Zardet/Documents/GitHub/Photr_LBProject/Photr_LBPrjoect/Photr_LBPrjoect/Pages/Login.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dario/Documents/GitHub/Photr_LBProject/Photr_LBPrjoect/Photr_LBPrjoect/Pages/Warenkorb.razor]
+[C:/Users/Luca Zardet/Documents/GitHub/Photr_LBProject/Photr_LBPrjoect/Photr_LBPrjoect/Pages/Warenkorb.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2FyZW5rb3JiLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dario/Documents/GitHub/Photr_LBProject/Photr_LBPrjoect/Photr_LBPrjoect/_Imports.razor]
+[C:/Users/Luca Zardet/Documents/GitHub/Photr_LBProject/Photr_LBPrjoect/Photr_LBPrjoect/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dario/Documents/GitHub/Photr_LBProject/Photr_LBPrjoect/Photr_LBPrjoect/Shared/MainLayout.razor]
+[C:/Users/Luca Zardet/Documents/GitHub/Photr_LBProject/Photr_LBPrjoect/Photr_LBPrjoect/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-6osq86cdhh
 
-[C:/Users/dario/Documents/GitHub/Photr_LBProject/Photr_LBPrjoect/Photr_LBPrjoect/Shared/NavMenu.razor]
+[C:/Users/Luca Zardet/Documents/GitHub/Photr_LBProject/Photr_LBPrjoect/Photr_LBPrjoect/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-u1dyqw3lrl

@@ -68,7 +68,6 @@ C:\Users\Luca Zardet\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Common\bin
 C:\Users\Luca Zardet\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Common\bin\Debug\net6.0\Common.dll
 C:\Users\Luca Zardet\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Common\bin\Debug\net6.0\ref\Common.dll
 C:\Users\Luca Zardet\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Common\bin\Debug\net6.0\Common.pdb
-C:\Users\Luca Zardet\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
 C:\Users\Luca Zardet\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Luca Zardet\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
 C:\Users\Luca Zardet\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
@@ -76,3 +75,4 @@ C:\Users\Luca Zardet\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Common\obj
 C:\Users\Luca Zardet\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Common\obj\Debug\net6.0\Common.dll
 C:\Users\Luca Zardet\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Common\obj\Debug\net6.0\ref\Common.dll
 C:\Users\Luca Zardet\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Common\obj\Debug\net6.0\Common.pdb
+C:\Users\Luca Zardet\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
