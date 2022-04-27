@@ -7,13 +7,41 @@
 @using MatBlazor
 @page "/on-init"
 
-<PageTitle>Index Shop page</PageTitle>
+<PageTitle>Main Index</PageTitle>
+<style>
+	.demo-mat-card {
+		max-width: 400px;
+	}
 
+	.demo-mat-card-content {
+		padding: 1rem;
+	}
 
-@*@foreach (var selectedItem in allOffersForMainPage)
+	.demo-mat-card-clean-margin {
+		margin: 0px;
+	}
+</style>
+@foreach (var selectedItem in allOffersForMainPage)
 {
 
-}*@
+	<MatCard class="demo-mat-card">
+		<MatCardContent>
+			<MatCardMedia Wide="true" Image=@selectedItem.TitelPic></MatCardMedia>
+			<div class="demo-mat-card-content">
+				<MatHeadline6 class="demo-mat-card-clean-margin">
+					@selectedItem.Titel.ToString();
+				</MatHeadline6>
+				<MatSubtitle2 class="demo-mat-card-clean-margin">
+					@selectedItem.Author.ToString();
+				</MatSubtitle2>
+			</div>
+
+			<MatBody2 class="demo-mat-card-content demo-mat-card-clean-margin">
+				Visit ten places on our planet that are undergoing the biggest changes today.
+			</MatBody2>
+		</MatCardContent>
+	</MatCard>
+}
 
 @code {
 	BusinessLogic.Helper helper = new BusinessLogic.Helper(false);
@@ -21,13 +49,13 @@
 	List<PhotrDb> allDataBaseEntrys = new List<PhotrDb>();
 	List<PictureDb> allDataBasePic = new List<PictureDb>();
 	List<MainPageViewModel> allOffersForMainPage = new List<MainPageViewModel>();
-	    protected override void OnInitialized()
-    {
-        allDataBaseEntrys = helper.GetData<PhotrDb>();
-    }
+	//protected override void OnInitialized()
+	//{
+	//	GetShopItems();
+	//}
 	public void GetShopItems()
 	{
-		allDataBaseEntrys = helper.GetData<PhotrDb>();
+		//allDataBaseEntrys = helper.GetData<PhotrDb>();
 
 		foreach (var item in allDataBaseEntrys)
 		{
