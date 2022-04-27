@@ -2,7 +2,7 @@
 
 namespace Photr_LBPrjoect.Model
 {
-    public class PhotrDb
+    public class Photr
     {
         public int ID { get; set; }
         public string Titel { get; set; }

@@ -32,14 +32,20 @@
 	string labelText = string.Empty;
 	string username = string.Empty;
 	string password = string.Empty;
-	UserDb loggedInUser = new UserDb();
+	User loggedInUser = new User();
 	public void LoginFunction()
 	{
 		loggedInUser = null;
 		labelText = string.Empty;
 		try
 		{
-			List<UserDb> user = helper.GetSpecificData<UserDb>(whereData: username, whereStatement: nameof(UserDb.Username), andData: password, andStatement: nameof(UserDb.Password)).ToList();
+			//List<User> user = helper.GetSpecificData<User>(whereData: username, whereStatement: nameof(User.Username), andData: password, andStatement: nameof(User.Password)).ToList();
+			List<User> user = new List<User>(){new User()
+			{
+				Id = 1,
+				Username = "testuser",
+				Password = "testpw"
+			}};
 			if (user.Count() != 0)
 			{
 				loggedInUser = user.FirstOrDefault();

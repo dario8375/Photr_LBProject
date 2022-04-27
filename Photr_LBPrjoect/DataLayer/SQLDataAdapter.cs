@@ -18,7 +18,7 @@ namespace DataLayer {
         string connectionString = string.Empty;
 
         private static string GetConnectionString() {
-            return @"";
+            return @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=Photrn;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
         }
 
         private static List<T> ConvertDataTable<T>(DataTable results) {
