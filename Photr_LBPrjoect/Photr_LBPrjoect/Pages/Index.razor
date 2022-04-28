@@ -5,11 +5,26 @@
 @using Photr_LBPrjoect.Model
 @using Common.ViewModels
 @using MatBlazor
-@using System.Drawing
 @page "/on-init"
 
 <PageTitle>Index Shop page</PageTitle>
 
+<h1>Buchen sie jetzt ihren Fotografen:</h1>
+@{GetShopItems();}
+@foreach(var v in allOffersForMainPage)
+{
+	<form method="post" action="">
+		<div style="border:solid;border-radius:5px;width:50%;" >
+		<p>@v.Titel</p>
+		<p>von: @v.Author</p>
+		<p>Preis: @v.Price CHF.</p>
+		<img src=@v.TitelPic alt="testimage" style="width:80%;align-content:center">
+		<input type="button" name="btn" value="Zeige Shopseite"> 
+		<input type="hidden" name="elementID" value=@v.id> 
+		</div>
+	</form>
+	
+}
 
 @*@foreach (var selectedItem in allOffersForMainPage)
 {
@@ -22,13 +37,20 @@
 	List<Photr> allDataBaseEntrys = new List<Photr>();
 	List<Picture> allDataBasePic = new List<Picture>();
 	List<MainPageViewModel> allOffersForMainPage = new List<MainPageViewModel>();
-	protected override void OnInitialized()
-	{
-		allDataBaseEntrys = helper.GetData<Photr>();
-	}
+	//protected override void OnInitialized()
+	//{
+	//	allDataBaseEntrys = helper.GetData<Photr>();
+	//}
 	public void GetShopItems()
 	{
-		allDataBaseEntrys = helper.GetData<Photr>();
+		//allDataBaseEntrys = helper.GetData<Photr>();
+		allDataBaseEntrys = new List<Photr>(){new Photr(){
+			ID = 1,
+			Author = "testAuth1",
+			Description = "testAuth1",
+			Titel = "testAuth1",
+			Price = 1
+		}};
 
 		foreach (var item in allDataBaseEntrys)
 		{
@@ -36,16 +58,17 @@
 			allDataBasePic = new List<Picture>(){new Picture()
 			{
 				Id = 1,
-				Author = "testSeller",
-				Photo = new Bitmap(@"C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect\wwwroot\testimage\testimage.png")
+				Author = "testAuth1",
+				Photo = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Duck_standing.jpg/640px-Duck_standing.jpg"
 			}
 			};
 			MainPageViewModel oneOffer = new MainPageViewModel()
 				{
+					id = item.ID,
 					Author = item.Author,
 					Price = item.Price,
 					Titel = item.Titel,
-					TitelPic = allDataBasePic.FirstOrDefault().Photo
+					TitelPic = allDataBasePic.First().Photo
 				};
 			allOffersForMainPage.Add(oneOffer);
 		}
