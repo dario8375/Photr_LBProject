@@ -81,14 +81,6 @@
       "url": "Photr_LBPrjoect.styles.css"
     },
     {
-      "hash": "sha256-XEBvFhPwfjEXPu0sBqVm6OfhMUsTWuYjY7M5\/bPBBcY=",
-      "url": "_framework\/System.Linq.Expressions.dll"
-    },
-    {
-      "hash": "sha256-9NtEbYixyog7vUmeYXyyqzfBXUYl8wxoVQ26Ji7sNRg=",
-      "url": "_framework\/System.Private.CoreLib.dll"
-    },
-    {
       "hash": "sha256-FemIqz6NhJAK6QVJ6zmarEUtVe3wEJ4G+hqbIn3f1MQ=",
       "url": "_framework\/Humanizer.dll"
     },
@@ -1313,6 +1305,10 @@
       "url": "_framework\/System.IO.dll"
     },
     {
+      "hash": "sha256-XEBvFhPwfjEXPu0sBqVm6OfhMUsTWuYjY7M5\/bPBBcY=",
+      "url": "_framework\/System.Linq.Expressions.dll"
+    },
+    {
       "hash": "sha256-sNwFnnr5E1R6F7DXVERAvTr3PUESBz\/daMT8\/p\/9VTk=",
       "url": "_framework\/System.Linq.Parallel.dll"
     },
@@ -1745,6 +1741,10 @@
       "url": "_framework\/netstandard.dll"
     },
     {
+      "hash": "sha256-9NtEbYixyog7vUmeYXyyqzfBXUYl8wxoVQ26Ji7sNRg=",
+      "url": "_framework\/System.Private.CoreLib.dll"
+    },
+    {
       "hash": "sha256-awQsJ\/WxYhouHPuE+i3eJqjA4XClQlr2rD6nKvW80ww=",
       "url": "_framework\/dotnet.6.0.1.di5i8dtrjo.js"
     },
@@ -1797,11 +1797,11 @@
       "url": "_framework\/DataLayer.pdb"
     },
     {
-      "hash": "sha256-xLig+SQH5+m\/79Dw2NQpUvoLMJU7YKEN8\/2bkpmHQ0w=",
+      "hash": "sha256-A35EsmUMTH8hyVgvJDMQb\/d3ujeIL5yrxhV7EwBoATw=",
       "url": "_framework\/Photr_LBPrjoect.dll"
     },
     {
-      "hash": "sha256-38wMDS027oNZmxVmfY7Q2\/qj3qRTQ17gdBdRhWb+qcY=",
+      "hash": "sha256-tgaCD9uoSZYutYuF5a+BkAlFfRp\/SnEPlPi27fyts04=",
       "url": "_framework\/Photr_LBPrjoect.pdb"
     },
     {
@@ -1809,7 +1809,7 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-R5gJo6EughF9psd6QF8dg+0IcAI3KX62Wcu99IaGJ94=",
+      "hash": "sha256-V5zwKVQ4weg2QxraRc0Gv1JmlntAqiG5w6d6Q+lhGV8=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -1821,5 +1821,5 @@
       "url": "_content\/MatBlazor\/dist\/matBlazor.js"
     }
   ],
-  "version": "O16+QxDm"
+  "version": "\/+lDcChJ"
 };

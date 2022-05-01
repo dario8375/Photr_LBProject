@@ -5,26 +5,46 @@
 @using Photr_LBPrjoect.Model
 
 <PageTitle>Login</PageTitle>
-<h1>Login</h1>
-<p>
-	<label>Username</label>
-	<input @bind="@username"></input>
-</p>
-<p>
-	<label>Password</label>
-	<input @bind="@password"></input>
-</p>
-<p>
-	<button @onclick="@LoginFunction">Login</button>
-</p>
-@if (!string.IsNullOrWhiteSpace(labelText))
-{
-	<label>@labelText</label>
-}
-@if (loggedInUser != null)
-{
-	<button @onclick="@LogOut">Logout</button>
-}
+
+<div class="container-fluid">
+	<div class="container">
+        <div class="row">
+            <div class="col-4"></div>
+            <div class="col-4">
+				<h1 style="width:100%" class="text-center">Login</h1>
+				<p>
+					<label style="width:100%">Username</label>
+					<input style="width:100%" @bind="@username"></input>
+				</p>
+				<p>
+					<label style="width:100%">Password</label>
+					<input style="width:100%" @bind="@password"></input>
+				</p>
+				<div class="text-center">
+					<p>
+						<button @onclick="@LoginFunction">Login</button>
+					</p>
+
+					@if (!string.IsNullOrWhiteSpace(labelText))
+					{				
+						<label>@labelText</label>
+					}
+					@if (loggedInUser != null)
+					{
+						<button class="text-center" @onclick="@LogOut">Logout</button>
+					}
+				</div>
+				
+
+
+			</div>
+            <div class="col-4"></div>
+        </div>
+	</div>
+</div>
+
+
+
 
 
 @code {

@@ -7,20 +7,46 @@
 @using MatBlazor
 @using System.Drawing
 
+<div class="container-fluid text-center">
+	<div class="row">
+		<div class="col-3">
 
-<h3>Add_Offer</h3>
-<br />
-<label>Namen</label>
-<input value=@inputeTitle />
-<br />
-<label>Preis</label>
-<input type="number" value=@inputePrice />
-<br />
-<label>Bildeingabe</label>
-<input value=@image type="file" asp-for="image.file" />
-<br />
+		</div>
+		<div class="col-6">
+			<p>
+				<h3>Add Offer</h3>
+			</p>
 
-<button @onclick="AddOffer">Add Offer</button>
+			<div class="row">
+				<div class="col-6">
+					<label>Namen</label>
+					<br />
+					<label>Preis</label>
+				</div>
+				<div class="col-6">
+					<input value=@inputeTitle />
+					<br />
+					<input type="number" value=@inputePrice />
+				</div>
+			</div>
+			<br />
+			<p>
+				<label>Bildeingabe</label>
+			<input value=@image type="file" asp-for="image.file" />
+			</p>
+
+			<p>
+				<button @onclick="AddOffer">Add Offer</button>
+			</p>
+		</div>
+		<div class="col-3">
+
+		</div>
+	</div>
+</div>
+
+
+
 
 <label>@errorMsg</label>
 @code {

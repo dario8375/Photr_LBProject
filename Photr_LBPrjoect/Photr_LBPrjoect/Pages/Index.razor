@@ -10,11 +10,36 @@
 
 <PageTitle>Index Shop page</PageTitle>
 
+<style>
+    .demo-mat-card {
+        max-width: 400px;
+    }
+ 
+    .demo-mat-card-content {
+        padding: 1rem;
+    }
+ 
+    .demo-mat-card-clean-margin {
+        margin: 0px;
+    }
+</style>
 
-@*@foreach (var selectedItem in allOffersForMainPage)
+@foreach (var selectedItem in allOffersForMainPage)
 {
-
-}*@
+        <MatCard class="demo-mat-card">
+            <MatCardContent>
+                <MatCardMedia Wide="true" Image=@selectedItem.TitelPic></MatCardMedia>
+                <div class="demo-mat-card-content">
+                    <MatHeadline6 class="demo-mat-card-clean-margin">
+                        @selectedItem.Titel.ToString();
+                    </MatHeadline6>
+                    <MatSubtitle2 class="demo-mat-card-clean-margin">
+                        @selectedItem.Author.ToString();
+                    </MatSubtitle2>
+                </div>
+            </MatCardContent>
+        </MatCard>
+}
 
 @code {
 	BusinessLogic.Helper helper = new BusinessLogic.Helper(false);
@@ -22,10 +47,10 @@
 	List<Photr> allDataBaseEntrys = new List<Photr>();
 	List<Picture> allDataBasePic = new List<Picture>();
 	List<MainPageViewModel> allOffersForMainPage = new List<MainPageViewModel>();
-	protected override void OnInitialized()
-	{
-		allDataBaseEntrys = helper.GetData<Photr>();
-	}
+	//protected override void OnInitialized()
+	//{
+	//	allDataBaseEntrys = helper.GetData<Photr>();
+	//}
 	public void GetShopItems()
 	{
 		allDataBaseEntrys = helper.GetData<Photr>();
