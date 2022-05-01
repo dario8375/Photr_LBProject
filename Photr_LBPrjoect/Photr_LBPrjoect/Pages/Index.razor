@@ -5,41 +5,31 @@
 @using Photr_LBPrjoect.Model
 @using Common.ViewModels
 @using MatBlazor
-@using System.Drawing
 @page "/on-init"
 
 <PageTitle>Index Shop page</PageTitle>
 
-<style>
-    .demo-mat-card {
-        max-width: 400px;
-    }
- 
-    .demo-mat-card-content {
-        padding: 1rem;
-    }
- 
-    .demo-mat-card-clean-margin {
-        margin: 0px;
-    }
-</style>
-
-@foreach (var selectedItem in allOffersForMainPage)
+<h1>Buchen sie jetzt ihren Fotografen:</h1>
+@{GetShopItems();}
+@foreach(var v in allOffersForMainPage)
 {
-        <MatCard class="demo-mat-card">
-            <MatCardContent>
-                <MatCardMedia Wide="true" Image=@selectedItem.TitelPic></MatCardMedia>
-                <div class="demo-mat-card-content">
-                    <MatHeadline6 class="demo-mat-card-clean-margin">
-                        @selectedItem.Titel.ToString();
-                    </MatHeadline6>
-                    <MatSubtitle2 class="demo-mat-card-clean-margin">
-                        @selectedItem.Author.ToString();
-                    </MatSubtitle2>
-                </div>
-            </MatCardContent>
-        </MatCard>
+	<form method="post" action="">
+		<div style="border:solid;border-radius:5px;width:50%;" >
+		<p>@v.Titel</p>
+		<p>von: @v.Author</p>
+		<p>Preis: @v.Price CHF.</p>
+		<img src=@v.TitelPic alt="testimage" style="width:80%;align-content:center">
+		<input type="button" name="btn" value="Zeige Shopseite"> 
+		<input type="hidden" name="elementID" value=@v.id> 
+		</div>
+	</form>
+	
 }
+
+@*@foreach (var selectedItem in allOffersForMainPage)
+{
+
+}*@
 
 @code {
 	BusinessLogic.Helper helper = new BusinessLogic.Helper(false);
@@ -53,7 +43,14 @@
 	//}
 	public void GetShopItems()
 	{
-		allDataBaseEntrys = helper.GetData<Photr>();
+		//allDataBaseEntrys = helper.GetData<Photr>();
+		allDataBaseEntrys = new List<Photr>(){new Photr(){
+			ID = 1,
+			Author = "testAuth1",
+			Description = "testAuth1",
+			Titel = "testAuth1",
+			Price = 1
+		}};
 
 		foreach (var item in allDataBaseEntrys)
 		{
@@ -61,16 +58,17 @@
 			allDataBasePic = new List<Picture>(){new Picture()
 			{
 				Id = 1,
-				Author = "testSeller",
-				Photo = new Bitmap(@"C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect\wwwroot\testimage\testimage.png")
+				Author = "testAuth1",
+				Photo = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Duck_standing.jpg/640px-Duck_standing.jpg"
 			}
 			};
 			MainPageViewModel oneOffer = new MainPageViewModel()
 				{
+					id = item.ID,
 					Author = item.Author,
 					Price = item.Price,
 					Titel = item.Titel,
-					TitelPic = allDataBasePic.FirstOrDefault().Photo
+					TitelPic = allDataBasePic.First().Photo
 				};
 			allOffersForMainPage.Add(oneOffer);
 		}

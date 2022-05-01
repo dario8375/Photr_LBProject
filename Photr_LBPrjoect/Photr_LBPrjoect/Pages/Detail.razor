@@ -4,6 +4,7 @@
 @using Common
 @using Photr_LBPrjoect.Model
 @using Pages
+@using System.Drawing
 
 <h3>Detail</h3>
 
@@ -20,16 +21,16 @@
 
 	BusinessLogic.Helper helper = new BusinessLogic.Helper(false);
 	List<Picture> allPics = new List<Picture>();
-	public void GetDetail()
+	public void GetDetail(int PhotrID)
 	{
 		//allPics = helper.GetSpecificData<Picture>(whereData: selectedService.Author, whereStatement: nameof(Picture.Author)).ToList();
 		allPics = new List<Picture>()
 		{
 			new Picture()
 			{
-				Id = 2,
-				Author = "testSeller",
-				Photo = new System.Drawing.Bitmap(@"C:\Users\dario\Documents\GitHub\Photr_LBProject\Photr_LBPrjoect\Photr_LBPrjoect\wwwroot\testimage\testimage.png")
+				Id = 1,
+				Author = "testAuth1",
+				Photo = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Duck_standing.jpg/640px-Duck_standing.jpg"
 			}
 		};
 	}
